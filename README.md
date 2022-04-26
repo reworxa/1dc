@@ -4,6 +4,10 @@ Hello! this is my first discord bot engine. Use the "settings.json" file to set 
 # How to use ?
 Time to use and set up!
 
+### Not a developer? Then be more comfortable with the user version!
+
+For download : https://www.mediafire.com/file/l99nvuhuy80mnoc/1dc.rar/file
+
 I will not leave a youtube video as in "mpy". But I will give as detailed examples as in "mpy".
 
 ### Let's first lay the foundation of the settings.json file.
