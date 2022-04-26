@@ -1,0 +1,22 @@
+{
+    "botConfig": {
+        "token": "your-bot-token",
+        "activity": {
+            "activityName": "Bot Activity",
+            "activityURL": "",
+            "activityType": ""
+        },
+        "prefix": "!",
+        "startBotMessage": true
+    },
+    "commands": {
+        "clear": true,
+        "avatar": true,
+        "ban": false,
+        "kick": false,
+        "mute": {
+            "muteCommand": false,
+            "mutedRoleID": "968533181005451405"
+        }
+    }
+}
