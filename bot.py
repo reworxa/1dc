@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import json
 
-bot_settingsGetItem = open("scripts/settings.json")
+bot_settingsGetItem = open("settings.json")
 bot_settings = json.load(bot_settingsGetItem)
 bot_settingsGetItem.close()
 
