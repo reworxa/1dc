@@ -6,7 +6,7 @@ Time to use and set up!
 
 ### Not a developer? Then be more comfortable with the user version!
 
-For download : https://www.mediafire.com/file/l99nvuhuy80mnoc/1dc.rar/file
+For download : https://www.mediafire.com/file/tmturhwhk4mak7w/1dc.rar/file
 
 I will not leave a youtube video as in "mpy". But I will give as detailed examples as in "mpy".
 
