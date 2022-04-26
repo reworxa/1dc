@@ -16,7 +16,7 @@
         "kick": false,
         "mute": {
             "muteCommand": false,
-            "mutedRoleID": "968533181005451405"
+            "mutedRoleID": ""
         }
     }
 }
